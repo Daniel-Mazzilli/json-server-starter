@@ -1,60 +1,32 @@
 {
-  "users": [
+  "players": [
     {
       "id": 1,
-      "name": {
-        "first": "John",
-        "last": "Doe"
-      },
-      "email": "john.doe@example.com"
+      "firstName": "Dan",
+      "lastName": "Mazzilli",
+      "role": "assistant coach",
+      "joined": "december 2019"
     },
     {
       "id": 2,
-      "name": {
-        "first": "Jane",
-        "last": "Smith"
-      },
-      "email": "jane.smith@example.com"
+      "firstName": "Jazon",
+      "lastName": "Younge",
+      "role": "player",
+      "joined": "may 2023"
     },
     {
       "id": 3,
-      "name": {
-        "first": "Alice",
-        "last": "Johnson"
-      },
-      "email": "alice.johnson@example.com"
-    }
-  ],
-  "tweets": [
-    {
-      "id": 101,
-      "userId": 1,
-      "message": "Had a great day at the beach!"
+      "firstName": "Luis",
+      "lastName": "Tejada",
+      "role": "player",
+      "joined": "may 2022"
     },
     {
-      "id": 102,
-      "userId": 2,
-      "message": "Just read an amazing book!"
-    },
-    {
-      "id": 103,
-      "userId": 3,
-      "message": "Loving the new coffee shop in town."
-    },
-    {
-      "id": 104,
-      "userId": 1,
-      "message": "Can't wait for the weekend."
-    },
-    {
-      "id": 105,
-      "userId": 2,
-      "message": "Thinking about starting a blog."
-    },
-    {
-      "id": 106,
-      "userId": 3,
-      "message": "Happy Monday everyone!"
+      "id": 4,
+      "firstName": "Enoch",
+      "lastName": "Tagoe",
+      "role": "player",
+      "joined": "may 2023"
     }
   ]
 }

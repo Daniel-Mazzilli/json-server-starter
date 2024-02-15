@@ -1,3 +1,32 @@
 {
- 
-}
+    "players": [
+      {
+        "id": 1,
+        "firstName": "Dan",
+        "lastName": "Mazzilli",
+        "role": "assistant coach",
+        "joined": "december 2019"
+      },
+      {
+        "id": 2,
+        "firstName": "Jazon",
+        "lastName": "Younge",
+        "role": "player",
+        "joined": "may 2023"
+      },
+      {
+        "id": 3,
+        "firstName": "Luis",
+        "lastName": "Tejada",
+        "role": "player",
+        "joined": "may 2022"
+      },
+      {
+        "id": 4,
+        "firstName": "Enoch",
+        "lastName": "Tagoe",
+        "role": "player",
+        "joined": "may 2023"
+      }
+    ]
+  }
