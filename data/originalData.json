@@ -28,5 +28,14 @@
         "role": "player",
         "joined": "may 2023"
       }
+    ],
+    "coaches": [
+      {
+        "id": 1,
+        "firstName": "JD",
+        "lastName": "Richards",
+        "role": "Coach",
+        "joined": "May 2020"
+      }
     ]
   }
